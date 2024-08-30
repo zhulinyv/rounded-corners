@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name           Rounded corners
+@description    圆角会话框
+@preprocessor   transitio
+@version        0.0.1
+@homepageURL    https://github.com/zhulinyv/rounded-corners
+@author         zhulinyv
+@license     	WTFPL
+@var padding length "角度" "10px"
+==/UserStyle== */
+
+.recent-contact-item {
+    border-radius: var(--length);
+}
